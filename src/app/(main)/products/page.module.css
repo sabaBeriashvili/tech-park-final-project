@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  padding-top: 120px;
+  margin-left: 0px;
+}
+
+.productFooter{
+
+top: 1822px;
+margin-left: 16px;
+}

@@ -1,0 +1,12 @@
+.cartBackround{
+    background-image: url("https://i.pinimg.com/736x/b3/51/69/b351695092f922355b62dd3085435a01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  top: 0;
+  left: -80px;
+  width: 110vw;
+  height: 105%;
+  z-index: -5;
+}

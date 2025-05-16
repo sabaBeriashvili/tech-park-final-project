@@ -1,0 +1,50 @@
+
+.image {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid gray;
+  display: flex;
+  gap: 20px;
+  padding: 5px 10px;
+  margin-top: 200px;
+  border: 1px solid gray;
+}
+
+.container {
+  height: 918px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 120px;
+  z-index: -2;
+}
+
+
+.infoWrapper {
+  display: flex;
+  gap: 20px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10rem;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  z-index: -5;
+}
+
+.profileFooter {
+ top: 787px;
+ margin-left: 10px;
+}
+
