@@ -3,7 +3,7 @@ import Link from "next/link";
 import styles from "./page.module.css";
 import { usePathname } from "next/navigation";
 import Products from "./products/page";
-import productBackround from "./products/main-productsBackground/Pbackground";
+import productBackround from "./products/productsBackground/Pbackground";
 
 
 function layout({ children }) {

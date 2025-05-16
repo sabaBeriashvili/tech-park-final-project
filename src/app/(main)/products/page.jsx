@@ -2,7 +2,7 @@ import ProductItem from "@/components/ProductItem/ProductItem";
 import styles from "./page.module.css";
 import Link from "next/link";
 import Footer from "@/components/Footer/footer";
-import ProductBackround from "./main-productsBackground/Pbackground";
+import ProductBackround from "./productsBackground/Pbackground";
 
 const Products = async () => {
   let products;
